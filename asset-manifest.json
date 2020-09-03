@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sodiq-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sodiq-app/static/js/main.e3a37d27.chunk.js",
+    "main.js.map": "/sodiq-app/static/js/main.e3a37d27.chunk.js.map",
+    "runtime-main.js": "/sodiq-app/static/js/runtime-main.3e40c18c.js",
+    "runtime-main.js.map": "/sodiq-app/static/js/runtime-main.3e40c18c.js.map",
+    "static/js/2.4813ca8c.chunk.js": "/sodiq-app/static/js/2.4813ca8c.chunk.js",
+    "static/js/2.4813ca8c.chunk.js.map": "/sodiq-app/static/js/2.4813ca8c.chunk.js.map",
+    "index.html": "/sodiq-app/index.html",
+    "precache-manifest.c6869f07ca2259d972f773cbfa915db7.js": "/sodiq-app/precache-manifest.c6869f07ca2259d972f773cbfa915db7.js",
+    "service-worker.js": "/sodiq-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sodiq-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4813ca8c.chunk.js.LICENSE.txt": "/sodiq-app/static/js/2.4813ca8c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sodiq-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e40c18c.js",
+    "static/js/2.4813ca8c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e3a37d27.chunk.js"
+  ]
+}
